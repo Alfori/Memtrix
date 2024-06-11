@@ -1,35 +1,58 @@
-## Project : Memory Matrix Challenge
+<h1>Memory Matrix Game</h1>
 
-### Overview
+ <!--### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
+
+<h2>Description</h2>
 Memory Matrix Challenge aims to enhance cognitive skills through engaging memory exercises. The project integrates design patterns like Singleton, Observer, and Strategy, complemented by Behavior-Driven Development (BDD), to build robust and scalable game functionality.
+<br />
 
-### Team Members:
-- Suman Upreti
-- Sultan Alfoory
-- Sunyojita Rattu
 
-### Directory Structure
-The project is organized as follows:
-- `src/main/java/memoryMatrix` contains the core game logic.
-- `src/test/java/memoryMatrix` houses our test suites, aiming for at least 80% method coverage.
+<h2>Languages and Utilities Used</h2>
 
-### Testing
-We've achieved % method coverage, ensuring that all functionalities are thoroughly verified. This commitment to testing underpins the reliability and stability of our game.
+- <b>Java</b> 
 
-### Game Mechanics
-- **Pattern Recognition**: Players are challenged to memorize and replicate patterns, enhancing their memory skills.
-- **Dynamic Difficulty**: The game adjusts its difficulty based on the player's performance, ensuring a continually engaging experience.
+<h2>Environments Used </h2>
 
-### Behavior-Driven Development (BDD)
-BDD has been employed to articulate game functionalities in human-readable terms, ensuring that development efforts align closely with intended game behaviors.
+- <b>Windows 11</b> (21H2)
+- <b>Java SE 17</b>
 
-### Design Patterns
-- **Singleton Pattern**: Ensures a single instance of the game's core logic, providing a unified control point across the application.
-- **Observer Pattern**: Enables real-time updates to the UI and game state in response to player actions, enhancing the interactive experience.
-- **Strategy Pattern**: Allows for the flexible implementation of game mechanics, enabling a varied gameplay experience through different strategies.
+<h2>Program walk-through:</h2>
 
-### Java Version
-- The game is developed using Java SE 17.
-- VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o., ensuring a stable and efficient development environment.
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-"Memory Matrix Challenge" is dedicated to providing a compelling platform for cognitive enhancement through interactive and enjoyable gameplay.
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
